@@ -12,11 +12,12 @@ export const config = {
     },
     about: {
         title: "About Me",
-        description: "I am a self-taught AI & Full-Stack Developer from Chennai. I build intelligent systems, chatbots, and modern web applications. My expertise includes Machine Learning, Deep Learning, NLP, and Full-Stack Web Development with React, Node.js, and Python. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. I have a competitive programming mindset and a deep passion for automation. Code is poetry, AI is the canvas."
+        description: "I’m a self-taught AI and Full-Stack Developer from Chennai focused on building real-world systems at the intersection of AI and cybersecurity. From RAG-based AI agents and automation workflows to container defense systems and malware analysis tools, I design solutions that go beyond theory and work in practice. I work primarily with Python, React, and cloud-native technologies, with a strong focus on AI automation, NLP, and security engineering. Currently, I’m developing intelligent AI assistants and scalable automation systems aimed at solving complex operational problems."
     },
     experiences: [
     {
         position: "Cybersecurity & Network Engineering Practice",
+        company: "Self-Learning & Practice",
         period: "2025 - Present",
         location: "Chennai",
         description: "Actively building hands-on expertise in cybersecurity, network security, and enterprise infrastructure by working on real-world configurations, labs, and security implementations.",
@@ -30,6 +31,7 @@ export const config = {
     },
     {
         position: "AI & Automation Projects",
+        company: "Self-Initiative",
         period: "2025",
         location: "Chennai",
         description: "Exploring AI-driven applications and automation systems, focusing on practical implementations rather than theoretical research.",
@@ -43,6 +45,7 @@ export const config = {
     },
     {
         position: "Full-Stack Development Projects",
+        company: "Self-Initiative",
         period: "2024",
         location: "Chennai",
         description: "Developed end-to-end web applications with focus on functionality, deployment, and integration.",
@@ -56,6 +59,7 @@ export const config = {
     },
     {
         position: "Python Development & Scripting",
+        company: "Self-Learning",
         period: "2023",
         location: "Chennai",
         description: "Strengthened programming fundamentals through hands-on scripting, automation, and backend logic development.",
@@ -69,6 +73,7 @@ export const config = {
     },
     {
         position: "Creative & UI Design",
+        company: "Self-Learning",
         period: "2022",
         location: "Chennai",
         description: "Developed design sense and user interface understanding, which later helped in building better applications.",
@@ -82,6 +87,7 @@ export const config = {
     },
     {
         position: "Computer Fundamentals",
+        company: "Self-Learning",
         period: "2021",
         location: "Chennai",
         description: "Built the foundation in computer usage and productivity tools, forming the base for further technical growth.",
